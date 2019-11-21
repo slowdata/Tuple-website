@@ -8,7 +8,7 @@ To get started:
 
 1. Clone the repository:
 
-   git clone https://github.com/tailwindcss/.git
+   git clone https://github.com/tailwindcss/tuple-website.git
 
 2. Install the dependencies:
 
