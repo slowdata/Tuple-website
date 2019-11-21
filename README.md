@@ -1,4 +1,6 @@
-# Tailwind CSS Playground
+# Tuple Website
+
+## Using Tailwind CSS Playground
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
@@ -6,35 +8,25 @@ To get started:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
-
-    cd tailwindcss-playground
-    ```
+   git clone https://github.com/tailwindcss/.git
 
 2. Install the dependencies:
 
-    ```bash
-    # Using npm
-    npm install
+   ```
+   npm install
 
-    # Using Yarn
-    yarn
-    ```
+   yarn
+   ```
 
 3. Start the development server:
 
-    ```bash
-    # Using npm
-    npm run serve
+   ```
+   npm run serve
 
-    # Using Yarn
-    yarn run serve
-    ```
+   yarn run serve
+   ```
 
-    Now you should be able to see the project running at localhost:8080.
-
-4. Open `public/index.html` in your editor and start experimenting!
+   Now you should be able to see the project running at localhost:8080.
 
 ## Building for production
 
@@ -42,11 +34,9 @@ Even though this isn't necessarily a starter kit for a proper project, we've inc
 
 To build an optimized version of your CSS, simply run:
 
-```bash
-# Using npm
+```
 npm run production
 
-# Using Yarn
 yarn run production
 ```
 
