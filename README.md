@@ -1,5 +1,8 @@
 # Tuple Website
 
+Tuple price website using Jame design and following Adam Wathan stream
+https://dribbble.com/shots/8248167-Tuple-Pricing-Page
+
 ## Using Tailwind CSS Playground
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
